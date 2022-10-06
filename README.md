@@ -16,6 +16,7 @@ Seamless 65% custom mechanical keyboard with leaf-spring Poron gasket mounting.
 
 # Plate Support
 ![alt text](https://raw.githubusercontent.com/Royster0/Roysket65/main/image/plate%20support.jpg)
+![alt text](https://raw.githubusercontent.com/Royster0/Roysket65/main/image/plate.jpg)
 
 # Screws
 - Case Screws (8x): [M2.5x8 socket](https://www.mcmaster.com/91292A012/)
