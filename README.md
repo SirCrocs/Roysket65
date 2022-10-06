@@ -6,7 +6,7 @@ Seamless 65% custom mechanical keyboard with leaf-spring Poron gasket mounting.
 - Designed around [D65](https://kbdfans.com/products/d65-gaskets) poron gasket tabs
 - Ledge design with angled sides and cherry lip
 - Has a weight
-- Compatible with Bakeneko65 PCB from CannonKeys
+- Compatible with [Bakeneko65](https://cannonkeys.com/products/bakeneko65-extra-pcbs) PCB from CannonKeys
 - 2.35mm space above and below plate
 - [Unified Daughterboard](https://github.com/Unified-Daughterboard/Unified-Daughterboard) (by ai03)
 - ~18.1mm front height
